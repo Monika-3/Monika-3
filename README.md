@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+### Streaks
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Monika-3&theme=highcontrast)](https://git.io/streak-stats)
+
 <!--
 **Monika-3/Monika-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

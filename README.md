@@ -71,7 +71,6 @@ My focus is connecting systems:
 - Chrome extensions
 - Character & image generation tools
 - Data dashboards
-- AI agents connected via MCP
 
 </td>
 <td width="50%" valign="top">

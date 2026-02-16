@@ -23,9 +23,6 @@ Connecting APIs • Automation • Intelligence • Insight
 </div>
 
 ---
-### Streaks
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Monika-3&theme=highcontrast)](https://git.io/streak-stats)
 
 ## ⚙️ Tech Stack
 

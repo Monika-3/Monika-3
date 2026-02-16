@@ -1,42 +1,19 @@
-
 <div align="center">
 
-<h1>Monika</h1>
-<h3>Full-Stack Developer • AI Integrations • Automation • Data</h3>
+# Monika
+### Full-Stack Developer • AI Integrations • Automation • Data
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=I+Build+Real+World+Software;AI+%2B+Automation+Developer;Machine+Learning+Explorer;Backend+Logic+Lover;Debugging+Is+My+Superpower" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&lines=Learning+Full-Stack+Development;Building+small+projects+to+understand+systems;Exploring+AI+integrations+and+automation;Practicing+backend+logic+and+APIs;Improving+through+debugging" />
 
-<br/>
-
-Designing systems, not just features.<br/>
+Designing systems, not just features.  
 Connecting APIs • Automation • Intelligence • Insight
 
-<br/><br/>
+<br/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Monika-3&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="150" src="https://streak-stats.demolab.com?user=Monika-3&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Monika-3/Monika-3/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
-## ⚙️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,c,react,nextjs,nodejs,supabase,postgres,mysql,git,github,vscode" />
-
-</div>
 
 <br/>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,vercel,cloudflare" />
 
 </div>
 
@@ -57,55 +34,65 @@ My focus is connecting systems:
 - 🎯 Goal: Become a strong problem-solving developer  
 
 ---
+## 🧭 How I Build Systems
+
+```mermaid
+flowchart LR
+
+UX[UX Flow] --> BD[Backend & Database]
+BD --> MVP[Functional MVP]
+
+MVP --> UT[User Testing]
+MVP --> INT[Integrations]
+
+UT --> UI[Polish UI]
+INT --> UI
+
+UI --> DEP[Deploy]
+DEP --> AN[Analytics]
+AN --> IMP[Improve]
+IMP --> AN
+
+style UX fill:#0f172a,color:#fff
+style BD fill:#7c3aed,color:#fff
+style MVP fill:#2563eb,color:#fff
+style UT fill:#1f2937,color:#fff
+style INT fill:#ea580c,color:#fff
+style UI fill:#22c55e,color:#000
+style DEP fill:#eab308,color:#000
+style AN fill:#f59e0b,color:#000
+style IMP fill:#ef4444,color:#fff
+```
+## 🧰 Tech Stack
+
+| 🎨 Frontend | 🧠 Languages | 🗄️ Database | 🎯 Design |
+|:-----------:|:-----------:|:-----------:|:---------:|
+| <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" /> | <img src="https://skillicons.dev/icons?i=ts,js,python,c,nodejs" /> | <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql" /> | <img src="https://skillicons.dev/icons?i=figma" /><br/><img src="https://img.shields.io/badge/Stitch-UI%20Planning-7C3AED?style=for-the-badge"/> |
+
+---
+
+| 🤖 AI & Automation | 📊 Analytics | 🚀 Tools |
+|:------------------:|:-----------:|:------:|
+| <img src="https://img.shields.io/badge/MCP-AI%20Tools-7AA2F7?style=for-the-badge"/><br/><img src="https://img.shields.io/badge/n8n-Automation-FF6D5A?style=for-the-badge"/><img src="https://img.shields.io/badge/Zapier-Workflow-F4A261?style=for-the-badge"/><img src="https://img.shields.io/badge/Make-Integrations-5C7AEA?style=for-the-badge"/> | <img src="https://skillicons.dev/icons?i=excel" /><br/><img src="https://img.shields.io/badge/PowerBI-Dashboard-F2C811?style=for-the-badge"/> | <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker" /> |
+
+---
 
 ## 🛠 Growth & Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### What I Build
-
-- AI powered web apps
-- Automation workflows
-- Chrome extensions
-- Character & image generation tools
-- Data dashboards
-
-</td>
-<td width="50%" valign="top">
-
-### Currently Improving
-
-- Clean architecture
-- System thinking
-- Debugging complex systems
-- Machine Learning fundamentals
-- Reliable AI integrations
-- Scalable backend design
-
-</td>
-</tr>
-</table>
+| What I Build | Currently Improving |
+|------------|------------------|
+| - AI powered web apps<br>- Automation workflows<br>- Chrome extensions<br>- Character & image generation tools<br>- Data dashboards<br>- AI agents connected via MCP | - Clean architecture<br>- System thinking<br>- Debugging complex systems<br>- Machine Learning fundamentals<br>- Reliable AI integrations<br>- Scalable backend design |
 
 ---
 
-## 🧪 Developer Philosophy
+## 🧪 My Developer Philosophy & 🌟 Mindset
 
-A project is complete when:
-- It works reliably
-- It solves a real problem
-- I understand why it works
+I consider a project done when:
 
-Not when the tutorial ends.
+• It works reliably in real usage  
+• I fully understand and can modify it confidently  
+• It’s stable to use, maintainable, and flexible to extend
 
----
-
-## 🌟 Mindset
-
-> I don’t measure progress by courses completed —  
-> I measure it by problems solved.
+> Progress through creating • Discipline > inspiration
 
 ---
-
-⭐ Consistency > Motivation

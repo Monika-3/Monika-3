@@ -65,6 +65,7 @@ style DEP fill:#eab308,color:#000
 style AN fill:#f59e0b,color:#000
 style IMP fill:#ef4444,color:#fff
 ```
+---
 ## 🧰 Tech Stack
 
 | 🎨 Frontend | 🧠 Languages | 🗄️ Database | 🎯 Design |

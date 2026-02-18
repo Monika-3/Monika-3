@@ -3,7 +3,7 @@
 # Monika
 ### Full-Stack Developer • AI Integrations • Automation • Data
 
-[![wakatime](https://wakatime.com/badge/user/moni_3.svg)](https://wakatime.com/@moni_3)
+[![wakatime](https://wakatime.com/badge/user/018afbb1-5b63-4898-a83d-e9edf19a651a.svg)](https://wakatime.com/@018afbb1-5b63-4898-a83d-e9edf19a651a)
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&lines=Learning+Full-Stack+Development;Building+small+projects+to+understand+systems;Exploring+AI+integrations+and+automation;Practicing+backend+logic+and+APIs;Improving+through+debugging" />
 

@@ -47,9 +47,10 @@ BD --> MVP[Functional MVP]
 MVP --> INT[Integrations]
 INT --> UT[User Testing]
 
-UT --> UI[Polish UI]
-INT --> DEP[Deploy]
+INT --> UI[Polish UI]
 
+
+UT --> DEP[Deploy]
 UI --> DEP[Deploy]
 DEP --> AN[Analytics]
 AN --> IMP[Improve]

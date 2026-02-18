@@ -45,10 +45,10 @@ UX[UX Flow] --> BD[Backend & Database]
 BD --> MVP[Functional MVP]
 
 MVP --> UT[User Testing]
-MVP --> INT[Integrations]
+UT --> INT[Integrations]
 
 UT --> UI[Polish UI]
-INT --> UI
+INT --> DEP[Deploy]
 
 UI --> DEP[Deploy]
 DEP --> AN[Analytics]

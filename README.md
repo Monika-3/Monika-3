@@ -69,13 +69,13 @@ style IMP fill:#ef4444,color:#fff
 ---
 ## 🧰 Tech Stack
 
-| ###🎨 Frontend | ###🧠 Languages | ###🗄️ Database | ###🎯 Design |
+| 🎨 Frontend | 🧠 Languages | 🗄️ Database | 🎯 Design |
 |:-----------:|:-----------:|:-----------:|:---------:|
 | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" /> | <img src="https://skillicons.dev/icons?i=ts,js,python,c,nodejs" /> | <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql" /> | <img src="https://skillicons.dev/icons?i=figma" /><br/><img src="https://img.shields.io/badge/Stitch-UI%20Planning-7C3AED?style=for-the-badge"/> |
 
 ---
 
-| ###🤖 AI & Automation | ###📊 Analytics | ###🚀 Tools |
+| 🤖 AI & Automation | 📊 Analytics | 🚀 Tools |
 |:------------------:|:-----------:|:------:|
 | <img src="https://img.shields.io/badge/MCP-AI%20Tools-7AA2F7?style=for-the-badge"/><br/><img src="https://img.shields.io/badge/n8n-Automation-FF6D5A?style=for-the-badge"/><img src="https://img.shields.io/badge/Zapier-Workflow-F4A261?style=for-the-badge"/><img src="https://img.shields.io/badge/Make-Integrations-5C7AEA?style=for-the-badge"/> | <img src="https://skillicons.dev/icons?i=excel" /><br/><img src="https://img.shields.io/badge/PowerBI-Dashboard-F2C811?style=for-the-badge"/> | <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker" /> |
 

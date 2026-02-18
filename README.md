@@ -44,8 +44,8 @@ flowchart LR
 UX[UX Flow] --> BD[Backend & Database]
 BD --> MVP[Functional MVP]
 
-MVP --> UT[User Testing]
-UT --> INT[Integrations]
+MVP --> INT[Integrations]
+INT --> UT[User Testing]
 
 UT --> UI[Polish UI]
 INT --> DEP[Deploy]

@@ -5,7 +5,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/018afbb1-5b63-4898-a83d-e9edf19a651a.svg)](https://wakatime.com/@018afbb1-5b63-4898-a83d-e9edf19a651a)
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&lines=Learning+Full-Stack+Development;Building+small+projects+to+understand+systems;Exploring+AI+integrations+and+automation;Practicing+backend+logic+and+APIs;Improving+through+debugging" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&lines=Learning+Full-Stack+Development;Building+Small+Projects+to+Understand+Systems;Exploring+AI+Integrations+and+automation;Practicing+Backend+Logic+and+APIs;Improving+through+Debugging" />
 
 Designing systems, not just features.  
 Connecting APIs • Automation • Intelligence • Insight
